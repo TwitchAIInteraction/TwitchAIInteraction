@@ -4,6 +4,9 @@ Combining the brains of OpenAI's Chat-GPT and ElevenLabs AI Voice capabilities, 
 
 An interactive Twitch chatbot powered by OpenAI and ElevenLabs. This bot reads Twitch chat messages, processes them with OpenAI's Chat-GPT, and responds using ElevenLabs' voice synthesis.
 
+![image](https://github.com/itsDevinReed/TwitchAIInteraction/assets/55592830/4f7c04b1-411c-4882-8431-ee421c171698)
+
+
 **Features:**
 Interactive Responses: Uses OpenAI's Chat-GPT models to generate relevant responses to chat messages.
 Voice Synthesis: Utilizes ElevenLabs' API to convert text responses into voice.
