@@ -17,8 +17,6 @@ Banned Words Filtering: Filters out banned words from chat messages for a more c
 
 **Setup:**
 Text Files: Create a prompt text file for Chat-GPT to dynamically update with during each chat interaction, optionally create a text file for chat log to be written to
-Environment Variables: Set up the necessary environment variables (OPENAI_API_KEY, ELEVENLABS_API_KEY, and BASE_PATH for dynamic prompt text file modifications and optional chat log).
+Environment Variables: The app will prompt for necessary variables (API keys, Twitch OAuth Token, directories). WARNING: These are currently stored in plaintext as a configuration file named ".env" in the app directory.
 Python Dependencies: Ensure all required Python libraries are installed.
-Run: Execute the main script to initiate the bot.
-
-*†This version has been stripped of private info used in a working project, and modified to fit cleaner coding practices. Therefore it requires experienced user input and potentially troubleshooting.*
+Run: Execute the main script app.py to initiate the bot.
