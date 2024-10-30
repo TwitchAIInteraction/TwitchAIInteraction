@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Token files and sensitive information
+token.txt
+.env
+
+# Log files and debug output
+*.log
+
+# TwitchAI Interaction-specific logs, temp files, and outputs
+temp/
+chat.txt
+prompt.txt
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Python test-related files
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+htmlcov/
+
+# Test and temporary cache
+pytest_cache/
+.cache
+tmp/
+temp/
+
+# Others
+*.bak
+*.swp
