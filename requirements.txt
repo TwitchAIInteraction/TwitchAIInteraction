@@ -1,0 +1,6 @@
+asyncio  # This is part of Python's standard library, no need to install
+logging  # Part of Python's standard library
+openai>=1.0.0  # OpenAI SDK for GPT models
+twitchio>=2.4.0  # TwitchIO for Twitch bot interaction
+elevenlabs>=0.2.16  # ElevenLabs SDK for text-to-speech functionality
+python-dotenv>=1.0.0  # To load environment variables from a .env file
