@@ -1,6 +1,6 @@
 **(WIP†)**
 
-Combining the brains of OpenAI's Chat-GPT and ElevenLabs AI Voice capabilities, allow Twitch chat to interact with an AI chatbot during streams.
+Combining the brains of OpenAI's GPT-4o-mini and ElevenLabs AI Voice capabilities, allow Twitch chat to interact with an AI chatbot during streams.
 
 An interactive Twitch chatbot powered by OpenAI and ElevenLabs. This bot reads Twitch chat messages, processes them with OpenAI's Chat-GPT, and responds using ElevenLabs' voice synthesis.
 
