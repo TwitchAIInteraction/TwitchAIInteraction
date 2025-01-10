@@ -38,13 +38,7 @@ CONFIG_FILE = '.env'
 
 def prompt_yes_no(question: str) -> bool:
     """
-    Prompts the user with a yes/no question and returns the response as a boolean.
-
-    Args:
-        question (str): The question to present to the user.
-
-    Returns:
-        bool: True if the user responds with 'y' or 'yes', False otherwise.
+    Prompts the user with a yes/no question, returns as bool
     """
     while True:
         response = input(f"{question} (y/n): ").strip().lower()
